@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica, sans-serif;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #111;
+  color: #fff;
+}
+
+.card {
+  background-color: #831a4b;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.nav {
+  padding: 20px;
+  background-color: #238988;
+  margin: 10px;
+}

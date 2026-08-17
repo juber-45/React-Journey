@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #fff;
+  margin: 10px;
+  color: #000;
+}
+
+.btn {
+  padding: 10px 20px;
+  border-radius: 20px;
+  background-color: #a73232;
+  color: #bcabab;
+}
