@@ -1,0 +1,27 @@
+* { 
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica, sans-serif;
+}
+
+html, body { 
+  background-color: #000;
+  color: #fff;
+  height: 100%;
+  width: 100%;
+}
+
+.nav { 
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #2a7494;
+  padding: 20px 40px;
+}
+
+.nav2 {
+  display: flex;
+  gap: 30px;
+  cursor: pointer;
+}
